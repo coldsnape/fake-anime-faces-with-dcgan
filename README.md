@@ -5,7 +5,7 @@ By Danh Nguyen and Jared Mlekush
 - Data
 - Methods
 - Pros & Cons
-- Something we can try
+- Other Improvments
 
 # Data 
 Our clean data is just under 400mb, consisting of over 63,000 faces
@@ -30,7 +30,7 @@ We also tried additional approaches to improve the generator and discriminator m
 - Some of the generated anime faces are unproportional, especially the eyes which are generally large compare to the actual face
 - High GPU computation cost
 
-# Something we can try
+# Other Improvments
 - Adding additional layers
 - Try different loss functions
 - Trying additional combinations of image augmentations 
