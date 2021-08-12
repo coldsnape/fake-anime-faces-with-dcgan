@@ -1,6 +1,8 @@
 # Fake Anime Faces With DCGAN
 By Danh Nguyen and Jared Mlekush
 
+![image.png](Example_anime.png)
+
 # Overview
 - Data
 - Methods
@@ -35,6 +37,3 @@ We also tried additional approaches to improve the generator and discriminator m
 - Try different loss functions
 - Trying additional combinations of image augmentations 
 - More images/higher quality images
-
-
-
