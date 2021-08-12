@@ -1,1 +1,2 @@
-# fake_anime_faces_with_dcgan
+# Fake Anime Faces With DCGAN
+By Danh Nguyen and Jared Mlekush
