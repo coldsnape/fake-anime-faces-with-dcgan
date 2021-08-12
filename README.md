@@ -37,4 +37,4 @@ We also tried additional approaches to improve the generator and discriminator m
 - More images/higher quality images
 
 
-
+![image.png](Example_anime.png)
